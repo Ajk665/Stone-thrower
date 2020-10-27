@@ -13,6 +13,7 @@ function preload()
 var ground;
 var mango1,mango2,mango3,mango4,mango5;
 var stone;
+var sling;
 
 function setup() {
 	createCanvas(800, 700);
