@@ -1,1 +1,2 @@
-# Stone-thrower
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
